@@ -1,0 +1,7 @@
+{
+  "name": "Creoo Ops Portal",
+  "description": "Enterprise-grade internal operations portal for managing HR, Finance, Tool Registry, and internal workflows with RBAC and audit logging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
